@@ -6,6 +6,6 @@
 - Rozhon Olexandr;
 - Ivanchenko Vyacheslav;
 
-#######################################
+########################################
 
 to start write: ```go run server.go```
