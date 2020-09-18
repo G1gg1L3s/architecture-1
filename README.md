@@ -2,9 +2,9 @@
 
 ##Redstone Team:
 
-- Serhiychuk Nazar;
-- Rozhon Olexandr;
-- Ivanchenko Vyacheslav;
+- Serhiychuk Nazar
+- Rozhon Olexandr
+- Ivanchenko Vyacheslav
 
 ########################################
 
